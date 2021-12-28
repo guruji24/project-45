@@ -1,0 +1,41 @@
+characters that can be chosen-
+3
+
+1)black arc
+2)blue arc
+3)spy arc
+
+
+lords in black arc-
+6
+
+1) psychic lord
+2) thunder lord
+3) shark lord
+4) ranger lord
+5) lava lord
+6) forbidden lord (the black lord)
+
+
+lords in blue arc - 
+6
+
+1) leaf lord
+2) dark lord
+3) warrior lord
+4) dinasour lord
+5) rock lord
+6) forbidden lord (the blue lord)
+
+lords in spy arc-
+6
+
+1) tech lord
+2)mask lord
+3) monster lord
+4) hacker lord
+5) devil lord
+6) forbidden lord (spy lord)
+
+
+
